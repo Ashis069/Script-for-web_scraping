@@ -8,7 +8,7 @@ Welcome to my GitHub repository for web scraping programs! In this repository, I
 - [Web Scraping Programs](#web-scraping-programs)
 - [Getting Started](#getting-started)
 - [Kaggle Profile](#kaggle-profile)
-- [License](#license)
+
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Web scraping is a powerful technique for extracting data from websites. In this 
 
 ## Web Scraping Programs
 
-You can find the web scraping programs organized in directories within this repository. Each directory corresponds to a specific website or data source. Feel free to explore and use these programs for your own data collection needs.
+You can find the web scraping programs organized in directories within this repository. Feel free to explore and use these programs for your own data collection needs.
 
 ## Getting Started
 
@@ -25,7 +25,13 @@ To get started with web scraping, you'll need to have the following prerequisite
 - [Python](https://www.python.org/) installed on your system.
 - Python packages such as [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Requests](https://docs.python-requests.org/en/master/) for web scraping. You can install them using `pip`.
 
+
+## kaggle-profile
+The data collected through these web scraping programs is available on my Kaggle profile. You can access and download the datasets from the following link:
+[My Kaggle Profile](https://docs.python-requests.org/en/master/)
+Please feel free to explore the datasets, use them for your own projects, and provide credit if you find the data useful.
+
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Ashis069/Script-for-web_scraping
